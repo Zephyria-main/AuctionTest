@@ -1,7 +1,6 @@
 # ABCF Silent Auction
 
-A single-event silent auction web application built for the Australian
-Brain Cancer Foundation: ~15 items, up to ~500 registered bidders, one
+A single-event silent auction web application built for  ~15 items, up to ~500 registered bidders, one
 gala night, mobile-first. Next.js (App Router, TypeScript) + Tailwind CSS +
 Supabase (Postgres, Auth, Storage, Realtime) + Stripe Checkout + Resend,
 deployed on Vercel.
